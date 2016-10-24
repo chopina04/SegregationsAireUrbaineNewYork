@@ -18,6 +18,6 @@ CITUSNAT : Population naturalisée américaine<br>
 CITNOTUS : Population étrangère<br>
 SP_TXPOP : Part de la population vivant sous le seuil de pauvreté<br>
 REV_MOY : Revenu annuel moyen en US$<br>
-AP_TXPOP : Part de la population bénéficaire de l'aide publique<br>
+AP_TXPOP : Part de la population bénéficiaire de l'aide publique<br>
 TXCHOM>16 : Part de la population de plus de 16 ans au chômage<br>
 SCS_TXPOP : Part de la population sans couverture médicale<br>
